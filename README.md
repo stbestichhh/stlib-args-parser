@@ -1,9 +1,9 @@
-[![Node.js CI](https://github.com/stbestichhh/stlib-utils/actions/workflows/node.js.yml/badge.svg)](https://github.com/stbestichhh/stlib-utils/actions/workflows/node.js.yml)
-[![NPM Version](https://img.shields.io/npm/v/@stlib/utils)](https://www.npmjs.com/package/@stlib/utils)
+[![Node.js CI](https://github.com/stbestichhh/stlib-args-parser/actions/workflows/node.js.yml/badge.svg)](https://github.com/stbestichhh/stlib-args-parser/actions/workflows/node.js.yml)
+[![NPM Version](https://img.shields.io/npm/v/@stlib/argv)](https://www.npmjs.com/package/@stlib/argv)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-# Node.js light args parser
+# @stlib/argv
 
 ## Table of contents
 
