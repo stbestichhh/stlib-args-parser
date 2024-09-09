@@ -907,9 +907,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@stlib/utils@workspace:.":
+"@stlib/argv@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@stlib/utils@workspace:."
+  resolution: "@stlib/argv@workspace:."
   dependencies:
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.12.10"
